@@ -19,3 +19,5 @@ Python • Streamlit • Gemini API • PyMuPDF
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+Create .env file and add Gemini API key
